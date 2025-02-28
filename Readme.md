@@ -23,3 +23,8 @@ The project aims to create a platform where cricket enthusiasts can log in and s
 I chose this project because it combines the excitement of cricket with the opportunity to showcase proof of work across various concepts learned in the course. It requires implementing user authentication, CRUD operations, real-time updates, and user interaction features. This project is interesting and valuable because it captures the fun and community spirit of cricket fans while providing practical experience in full-stack development, database management, and user interface design. By working on this project, I will develop skills in modern web development technologies, user authentication, and data management, making me a more versatile and capable developer.
 
 I hope this helps you with your assignment! If you need further adjustments or have specific requirements, feel free to let me know.
+
+## Test
+
+* ** Test 1: **: Test the user authnetication system to ensure it works correctly
+* ** Test 2**: the rating system to ensure it updates correctly 
