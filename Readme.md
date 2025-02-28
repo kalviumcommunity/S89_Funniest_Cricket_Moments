@@ -26,5 +26,5 @@ I hope this helps you with your assignment! If you need further adjustments or h
 
 ## Test
 
-* ** Test 1: **: Test the user authnetication system to ensure it works correctly
-* ** Test 2**: the rating system to ensure it updates correctly 
+* ** Test 1**: Test the user authnetication system to ensure it works correctly
+* ** Test 2**: Test the rating system to ensure it updates correctly 
