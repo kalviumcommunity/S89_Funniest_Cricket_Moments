@@ -24,8 +24,4 @@ I chose this project because it combines the excitement of cricket with the oppo
 
 I hope this helps you with your assignment! If you need further adjustments or have specific requirements, feel free to let me know.
 
-## Test
 
-* ** Test 1**: Test the user authnetication system to ensure it works correctly
-* ** Test 2**: Test the rating system to ensure it updates correctly 
-iuebfouWE
