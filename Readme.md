@@ -26,4 +26,4 @@ I hope this helps you with your assignment! If you need further adjustments or h
 
 
 deployed link
-https://s89-funniest-cricket-moments.onrender.com/ping
+https://s89-funniest-cricket-moments.onrender.com/ping.
