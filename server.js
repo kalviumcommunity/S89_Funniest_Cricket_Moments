@@ -4,7 +4,7 @@ const app = express();
 require('dotenv').config();
 
 app.get('/ping', (req, res) => {
-  res.send('pong');
+  res.send('pong')
 });
 
 app.listen(8080,async()=>{
